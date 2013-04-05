@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 #breadcrumbs LI A:link, #breadcrumbs LI A:visited {
   text-decoration: none;
   color: #555753;
-  background-image: url("http://osucws.github.com/jenkins-isotope-style/breadcrumb.gif") 0 0 no-repeat; }
+  background: url("http://osucws.github.com/jenkins-isotope-style/breadcrumb.gif") 0 0 no-repeat; }
 
 #side-panel {
   background-color: #fff; }
