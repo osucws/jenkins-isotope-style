@@ -1,11 +1,11 @@
 body {
   background: #f5f2ed;
-  background: -moz-linear-gradient(top, #63818a 0%, #73939b 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #63818a), color-stop(100%, #73939b));
-  background: -webkit-linear-gradient(top, #63818a 0%, #73939b 100%);
-  background: -o-linear-gradient(top, #63818a 0%, #73939b 100%);
-  background: -ms-linear-gradient(top, #63818a 0%, #73939b 100%);
-  background: linear-gradient(top, #63818a 0%, #73939b 100%); }
+  background: -moz-linear-gradient(top, #f5f2ed 0%, #73939b 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f5f2ed), color-stop(100%, #73939b));
+  background: -webkit-linear-gradient(top, #f5f2ed 0%, #73939b 100%);
+  background: -o-linear-gradient(top, #f5f2ed 0%, #73939b 100%);
+  background: -ms-linear-gradient(top, #f5f2ed 0%, #73939b 100%);
+  background: linear-gradient(top, #f5f2ed 0%, #73939b 100%); }
 
 h1, h2, h3, h4, h5, h6 {
   /* color: #4f7b94; */
@@ -20,7 +20,6 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://oregonstate.edu/osuhomepage/regions/top-hat/current/images/tophat-bg.jpg") 0 0 no-repeat;
     display: block;
     width: 130px;
     height: 49px;
