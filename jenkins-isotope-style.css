@@ -8,8 +8,7 @@ body {
   background: linear-gradient(top, #f2f2f2 0%, #f2f2f2 100%); }
 
 h1, h2, h3, h4, h5, h6 {
-  /* color: #4f7b94; */
-   color: #c34500 }
+   color: #c34500; }
 
 #top-panel {
   background: none; }
@@ -20,6 +19,7 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
+    background: url("http://oregonstate.edu/osuhomepage/regions/top-hat/current/images/osu-tag.png") 0 0 no-repeat;
     display: block;
     width: 130px;
     height: 49px;
