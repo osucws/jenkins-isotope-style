@@ -46,6 +46,12 @@ h1, h2, h3, h4, h5, h6 {
 #left-top-nav {
   border-left: none; }
 
+#breadcrumbs LI A:link, #breadcrumbs LI A:visited {
+  text-decoration: none;
+  color: #555753;
+  background-image: url("http://osucws.github.com/jenkins-isotope-style/breadcrumb.gif");
+}
+
 #side-panel {
   background-color: #fff; }
   #side-panel > div:not(#navigation) {
