@@ -93,10 +93,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #breadcrumbs li{
+  background-image: none;
   float: left;
 }
 
 #breadcrumbs a{
+  background-image: none;
   padding: .7em 1em .7em 2em;
   float: left;
   text-decoration: none;
@@ -118,6 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #breadcrumbs a::after,
 #breadcrumbs a::before{
+  background-image: none;
   content: "";
   position: absolute;
   top: 50%;
