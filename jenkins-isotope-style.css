@@ -9,7 +9,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
    background-color:#ffffdd;
-   color: #c34500; }
+   color: #555;
+   text-shadow: 0 1px 1px #999; }
 
 #top-panel {
     background: none; }
