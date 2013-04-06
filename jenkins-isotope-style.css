@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
    color: #c34500; }
 
 #top-panel {
-  background: none; }
+    background: url("http://osucws.github.com/jenkins-isotope-style/jenkins_logo.png") 0 0 no-repeat; }
   #top-panel td#login-field span a {
     background-color: #333;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#4D4D4D), to(#333));
