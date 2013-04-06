@@ -8,6 +8,7 @@ body {
   background: linear-gradient(top, #f2f2f2 0%, #f2f2f2 100%); }
 
 h1, h2, h3, h4, h5, h6 {
+   background-color:#ffffdd;
    color: #c34500; }
 
 #top-panel {
