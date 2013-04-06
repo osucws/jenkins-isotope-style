@@ -85,6 +85,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #breadcrumbs li a:link, #breadcrumbs li a:visited {
   text-decoration: none;
-  color: #c34500;
+  color: #c34500 !important;
   font-weight: 900;
 }
