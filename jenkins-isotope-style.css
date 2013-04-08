@@ -110,3 +110,14 @@ h1, h2, h3, h4, h5, h6 {
 div.dashboard {
    padding-top: 20px;
 }
+
+#viewList td.inactive a {
+text-decoration: none;
+color: #c34500;
+}
+
+#viewList td.active hover {
+text-decoration: none;
+background-color: #f2f2f2;
+color: #000;
+}
