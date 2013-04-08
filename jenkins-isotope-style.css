@@ -116,7 +116,7 @@ text-decoration: none;
 color: #c34500;
 }
 
-#viewList td.inactive hover {
+#viewList td.inactive:hover {
 text-decoration: none;
 background-color: #f2f2f2;
 color: #000;
