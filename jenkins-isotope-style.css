@@ -8,6 +8,8 @@ body {
   background: linear-gradient(top, #f2f2f2 0%, #f2f2f2 100%); }
 
 h1, h2, h3, h4, h5, h6 {
+   margin-left: -10px;
+   margin-right: -10px;
    background-color:#ffffdd;
    color: #555;
    text-shadow: 0 1px 1px #999; }
@@ -72,6 +74,8 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 0; }
 
 #description div {
+   margin-left: -10px;
+   margin-right: -10px;
    font-size: 1.7em;
    font-weight: 100;
    padding-bottom: 3px;
@@ -103,3 +107,6 @@ h1, h2, h3, h4, h5, h6 {
     background:url('http://osucws.github.com/jenkins-isotope-style/breadcrumb.gif') no-repeat right center !important;
 }
 
+div.dashboard {
+   padding-top: 20px;
+}
