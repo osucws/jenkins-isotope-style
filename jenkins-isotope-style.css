@@ -88,3 +88,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #c34500 !important;
   font-weight: 900;
 }
+
+#breadcrumbs LI A {
+    display:block;
+    padding:0 15px 0 0;
+    background:url('http://osucws.github.com/jenkins-isotope-style/breadcrumb.gif') no-repeat right center !important;
+}
+
