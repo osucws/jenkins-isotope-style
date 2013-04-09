@@ -152,6 +152,11 @@ th.pane {
   border: 1px #f2f2f2 solid;
 }
 
+td.pane-header {
+   background-color: #fff;
+   border-radius: 10px
+}
+
 #executors {
    background-color: #fff;
    border-radius: 10px;
