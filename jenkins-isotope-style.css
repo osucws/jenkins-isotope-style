@@ -156,6 +156,10 @@ th.pane {
    background-color: #fff;
 }
 
+table.buildQueue {
+   background-color: #fff;
+}
+
 table.pane > tbody > tr > td:last-child {
   border-right: 1px #f2f2f2 solid;
   border-left: 1px #f2f2f2 solid;
