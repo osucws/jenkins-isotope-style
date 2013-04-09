@@ -156,7 +156,7 @@ th.pane {
    background-color: #fff;
 }
 
-table.buildQueue {
+table#buildQueue.pane {
    background-color: #fff;
 }
 
