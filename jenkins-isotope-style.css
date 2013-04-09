@@ -157,8 +157,9 @@ th.pane {
    border-radius: 10px;
 }
 
-table#buildQueue.pane {
+table#buildQueue {
    background-color: #fff;
+   border-radius: 10px;
 }
 
 table.pane > tbody > tr > td:last-child {
