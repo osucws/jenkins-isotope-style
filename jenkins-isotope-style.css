@@ -129,7 +129,7 @@ color: #000;
     border-radius: 4px 4px 4px 4px;
 }
 
-search-box {
+input#search-box {
    border-radius: 10px;
    border: 1px solid #ddd;
    -moz-transition: all 1.5s ease;
