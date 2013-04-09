@@ -121,3 +121,8 @@ text-decoration: none;
 background-color: #f2f2f2;
 color: #000;
 }
+
+#login-field SPAN {
+    background-color: #333;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#4D4D4D), to(#333));
+}
