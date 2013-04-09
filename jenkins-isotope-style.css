@@ -125,4 +125,6 @@ color: #000;
 #login-field SPAN {
     background-color: #333;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#4D4D4D), to(#333));
+    padding: .4em 1.2em .4em 1.2em;
+    border-radius: 4px 4px 4px 4px;
 }
