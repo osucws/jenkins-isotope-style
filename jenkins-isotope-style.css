@@ -146,6 +146,7 @@ input#search-box {
 
 table.pane > tbody > tr > td:last-child {
   border-right: 1px #f2f2f2 solid;
+  border-left: 1px #f2f2f2 solid;
 }
 
 .bigtable tr {
