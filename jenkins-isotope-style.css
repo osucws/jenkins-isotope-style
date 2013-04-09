@@ -178,6 +178,6 @@ table.pane > tbody > tr > td:last-child {
 
 body, table, form, input, td, th, p, textarea, select
 {
-   font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Droid Sans Mono', 'Consolas', monospace;
-   font-size: 12px;
+   font-family:Arial,sans-serif;
+   font-size:1.1em
 }
