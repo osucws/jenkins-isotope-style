@@ -145,13 +145,19 @@ input#search-box {
 }
 
 table.pane > tbody > tr > td {
-  border-right: 1px #f2f2f2 solid;
-  border-left: 1px #f2f2f2 solid;
+  border: 1px #f2f2f2 solid;
 }
 
+#executors {
+   background-color: #fff;
+}
+
+/*
 table.pane > tbody > tr > td:last-child {
   border-right: 1px #f2f2f2 solid;
   border-left: 1px #f2f2f2 solid;
+}
+*/
 
 .bigtable tr {
   border: 1px solid #f2f2f2;
