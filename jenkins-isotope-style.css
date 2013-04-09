@@ -144,7 +144,11 @@ input#search-box {
    transition: all 1.5s ease;
 }
 
-table.pane > tbody > tr >th > td {
+table.pane > tbody > tr > td {
+  border: 1px #f2f2f2 solid;
+}
+
+table.pane > th {
   border: 1px #f2f2f2 solid;
 }
 
