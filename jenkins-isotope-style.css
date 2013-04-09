@@ -154,6 +154,7 @@ th.pane {
 
 #executors {
    background-color: #fff;
+   border-radius: 10px;
 }
 
 table#buildQueue.pane {
