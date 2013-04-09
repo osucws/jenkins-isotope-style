@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 #projectstatus {
   background: #fff; }
   #projectstatus tr:nth-of-type(odd) {
-    background-color: #e5e5e5; }
+    background-color: #fafafa; }
     #projectstatus tr:nth-of-type(odd):hover {
       background-color: #f0f0f0; }
   #projectstatus tr:nth-of-type(even) {
@@ -136,4 +136,5 @@ input#search-box {
    -moz-transition: all 1.5s ease;
    -webkit-transition: all 1.5s ease;
    transition: all 1.5s ease;
-} 
+}
+
