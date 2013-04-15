@@ -182,6 +182,10 @@ body, table, form, input, td, th, p, textarea, select
    font-size: 12px;
 }
 
+table#projectstatus.sortable.pane.bigtable > tbody > tr > td {
+   text-transform: capitalize;
+}
+
 td > a.model-link {
    background-color: #fff;
    border-radius: 50px;
