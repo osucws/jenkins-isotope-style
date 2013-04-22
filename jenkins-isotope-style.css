@@ -217,8 +217,8 @@ td > a.model-link {
    background-image: -o-linear-gradient(top, #ffffff, #fafafa);
    background-image: linear-gradient(to bottom, #ffffff, #fafafa);
    background-repeat: repeat-x;
-   border-color: #bbb #bbb #ffffff;
-   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+   border-color: #bbb #bbb #f2f2f2;
+   // border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
    text-decoration: none;
    text-transform: uppercase;
 }
