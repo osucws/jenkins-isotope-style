@@ -206,18 +206,18 @@ td > a.model-link {
 */
 
 td > a.model-link {
-   color: #ffffff;
+   color: #000;
    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
    border-radius: 50px;
-   background-color: #49afcd;
+   background-color: #fafafa;
    padding: .3em 1.2em .3em 1.2em;
    background-image: -moz-linear-gradient(top, #5bc0de, #2f96b4);
-   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#2f96b4));
-   background-image: -webkit-linear-gradient(top, #5bc0de, #2f96b4);
-   background-image: -o-linear-gradient(top, #5bc0de, #2f96b4);
-   background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);
+   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#fafafa));
+   background-image: -webkit-linear-gradient(top, #ffffff, #fafafa);
+   background-image: -o-linear-gradient(top, #ffffff, #fafafa);
+   background-image: linear-gradient(to bottom, #ffffff, #fafafa);
    background-repeat: repeat-x;
-   border-color: #2f96b4 #2f96b4 #1f6377;
+   border-color: #fafafa #fafafa #ffffff;
    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
    text-decoration: none;
    text-transform: uppercase;
