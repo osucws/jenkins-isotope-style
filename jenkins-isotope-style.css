@@ -222,3 +222,11 @@ td > a.model-link {
    text-transform: uppercase;
 }
 
+#breadcrumbs LI {
+   float: left;
+   line-height: 2em;
+   padding-left: .75em;
+   color: #555753;
+   background-color: #fff;
+   margin-bottom: -8px;
+}
